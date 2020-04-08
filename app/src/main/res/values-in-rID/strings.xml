@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film Terakhir</string>
+    <string name="change_language_setting">Pilih Ubah Bahasa</string>
+    <string name="movies">Film</string>
+    <string name="tv_show">Acara Tv</string>
+    <string name="poster">poster</string>
+    <string name="user_score">Skor Penonton</string>
+    <string name="overview">Gambaran</string>
+    <string name="favorites">Favorit</string>
+    <string name="result">film berhasil disimpan</string>
+    <string name="delete">film berhasil dihapus</string>
+    <string name="search">pencarian</string>
+    <string name="daily_reminder">Pemberitahuan Harian</string>
+    <string name="reminder_setting">Pengaturan Pemberitahuan</string>
+    <string name="release_reminder">Pemberitahuan Rilis</string>
+    <string name="daily_alarm">Pemberitahuan Harian Telah Aktif</string>
+    <string name="daily_alarm_canceled">Pemberitahuan Harian dibatalkan</string>
+    <string name="release_alarm">Pemberitahuan Rilis Telah Aktif</string>
+    <string name="release_alarm_canceled">Pemberitahuan Rilis dibatalkan</string>
+</resources>
